@@ -1,0 +1,16 @@
+C:\Users\Kilic\source\repos\ASCII_Tree\bin\Debug\net5.0\ASCII_Tree.exe
+C:\Users\Kilic\source\repos\ASCII_Tree\bin\Debug\net5.0\ASCII_Tree.deps.json
+C:\Users\Kilic\source\repos\ASCII_Tree\bin\Debug\net5.0\ASCII_Tree.runtimeconfig.json
+C:\Users\Kilic\source\repos\ASCII_Tree\bin\Debug\net5.0\ASCII_Tree.runtimeconfig.dev.json
+C:\Users\Kilic\source\repos\ASCII_Tree\bin\Debug\net5.0\ASCII_Tree.dll
+C:\Users\Kilic\source\repos\ASCII_Tree\bin\Debug\net5.0\ref\ASCII_Tree.dll
+C:\Users\Kilic\source\repos\ASCII_Tree\bin\Debug\net5.0\ASCII_Tree.pdb
+C:\Users\Kilic\source\repos\ASCII_Tree\obj\Debug\net5.0\ASCII_Tree.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Kilic\source\repos\ASCII_Tree\obj\Debug\net5.0\ASCII_Tree.AssemblyInfoInputs.cache
+C:\Users\Kilic\source\repos\ASCII_Tree\obj\Debug\net5.0\ASCII_Tree.AssemblyInfo.cs
+C:\Users\Kilic\source\repos\ASCII_Tree\obj\Debug\net5.0\ASCII_Tree.csproj.CoreCompileInputs.cache
+C:\Users\Kilic\source\repos\ASCII_Tree\obj\Debug\net5.0\ASCII_Tree.dll
+C:\Users\Kilic\source\repos\ASCII_Tree\obj\Debug\net5.0\ref\ASCII_Tree.dll
+C:\Users\Kilic\source\repos\ASCII_Tree\obj\Debug\net5.0\ASCII_Tree.pdb
+C:\Users\Kilic\source\repos\ASCII_Tree\obj\Debug\net5.0\ASCII_Tree.genruntimeconfig.cache
+C:\Users\Kilic\source\repos\ASCII_Tree\obj\Debug\net5.0\ASCII_Tree.csprojAssemblyReference.cache
